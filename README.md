@@ -8,6 +8,10 @@ En esta primera práctica utilizando Spark he realizado un acercamiento instalan
 Tras analizar los datos del conjunto, he realizado un estudio de los valores nulos que pudiera poseer. Esto lo he realizado mediante dos alternativas distintas de tratamiento y posteriormente, he realizado distintos algoritmos 
 de aprendizaje automático para estudiar la exactitud de estos y quedarme con aquel que arroje un resultado más cercano a 1.
 
+## Práctica fabric
+
+Este archivo es unas de mis prácticas de Spark en el entorno de Mircorsoft Fabric. En él se ven distintos códigos creando tablas, ficheros tipo parquet, transformaciones de datos y visualizaciones de los mismos. 
+
 ## Aprendizaje Continuo
 
 Siempre estoy buscando oportunidades para aprender y crecer como analista. He participado en cursos en línea, así como he asistido a conferencias. Mantengo un registro de mis actividades de aprendizaje para mostrar mi compromiso con el crecimiento constante.
