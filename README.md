@@ -12,6 +12,10 @@ de aprendizaje automático para estudiar la exactitud de estos y quedarme con aq
 
 Este archivo es unas de mis prácticas de Spark en el entorno de Mircorsoft Fabric. En él se ven distintos códigos creando tablas, ficheros tipo parquet, transformaciones de datos y visualizaciones de los mismos. 
 
+## Actualización programada
+
+Este archivo es un código de actualización programada de los modelos de un workspace con una alerta a un grupo de teams mediante el uso de powerautomate. 
+
 ## Aprendizaje Continuo
 
 Siempre estoy buscando oportunidades para aprender y crecer como analista. He participado en cursos en línea, así como he asistido a conferencias. Mantengo un registro de mis actividades de aprendizaje para mostrar mi compromiso con el crecimiento constante.
